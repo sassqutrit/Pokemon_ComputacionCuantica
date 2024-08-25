@@ -28,7 +28,7 @@ Este proyecto demuestra cómo recuperar datos de un Pokémon utilizando la PokeA
 1. Asegúrate de que todos los paquetes requeridos estén instalados:
 
     ```bash
-    pip install qiskit pyqt6 requests
+    pip install qiskit qiskit_aer pyqt6 requests
     ```
 
 2. Ejecuta la aplicación:
